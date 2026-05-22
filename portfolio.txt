@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+
+AAPL: 5 shares = $900
+GOOGL: 6 shares = $780
+
+Total Investment: $1680
